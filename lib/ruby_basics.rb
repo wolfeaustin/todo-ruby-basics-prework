@@ -10,8 +10,8 @@ def argue (word)
   word
 end
 
-def greeting (name)
-
+def greeting (greeting, name)
+  greeting + name 
 end
 
 def return_a_value
